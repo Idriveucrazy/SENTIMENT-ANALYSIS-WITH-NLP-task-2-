@@ -67,3 +67,4 @@ Usage :
 5.Evaluate the model performance.
 
 OUTPUT: 
+![Image](https://github.com/user-attachments/assets/172d1de4-54d7-4085-a368-1df52396cb50)
